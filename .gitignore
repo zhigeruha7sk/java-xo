@@ -1,6 +1,11 @@
-.gradle
+local-repo/
+.gradle/
 build/
 .idea/
+*.iml
+*.ipr
+*.iws
+opencode.json
 
 ### Mac OS ###
 .DS_Store
